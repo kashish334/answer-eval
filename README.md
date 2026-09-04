@@ -10,6 +10,10 @@ a hand-written rubric.
 > Both files above should sit at the repo root alongside this README — they
 > are required deliverables, not just supporting notes.
 
+## Demo Video of Project
+
+https://drive.google.com/file/d/14bDvctZgqKKdPIl_OtmJoQ8YIfoqXdDR/view?usp=sharing
+
 ## Project structure
 
 ```
