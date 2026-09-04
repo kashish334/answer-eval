@@ -1,6 +1,6 @@
 # Answer Sheet Evaluation Pipeline
 
-CNV AI Labs timed assignment — extracts, structures, scores, and confidence-flags
+Assignment — extracts, structures, scores, and confidence-flags
 a scanned CBSE Class X Social Science answer sheet against a rubric.
 
 ## Project structure
