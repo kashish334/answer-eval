@@ -17,10 +17,15 @@ https://github.com/kashish334/answer-eval
 
 ## Project structure
 
-```
-backend/     FastAPI + the 4-step pipeline (extract, structure, score, confidence)
-frontend/    React (Vite) UI — upload a PDF, view results
-output/      output.json / output.csv written after each run
+```  
+answer-eval-project
+│
+├── backend/          FastAPI + the 4-step pipeline (extract, structure, score, confidence)                     
+│   ├── output/       output.json / output.csv written after each run
+├── frontend/         React (Vite) UI — upload a PDF, view results        
+├── source.md       
+├── Approach.md
+└── README.md
 ```
 
 ## 1. Backend setup
