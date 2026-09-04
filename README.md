@@ -1,6 +1,6 @@
 # Answer Sheet Evaluation Pipeline
 
-CNV AI Labs timed assignment — extracts, structures, scores, and confidence-flags
+Assignment — extracts, structures, scores, and confidence-flags
 a scanned CBSE Class X Social Science answer sheet against a rubric.
 
 ## Project structure
@@ -78,10 +78,3 @@ Open http://localhost:5173. Upload `backend/data/answer_sheet.pdf`, click
 - `backend/data/question_paper.pdf` — the matching official question paper (Q.P. 32/3/2)
 - `backend/rubric.json` — the answer key for the 5 questions attempted (Q21–Q25),
   written from the NCERT/CBSE syllabus content for this paper
-
-## Notes on the two extraction/scoring engines
-
-Both `extract.py` and `score.py` are written to prefer Claude (vision OCR +
-LLM-as-grader) when `ANTHROPIC_API_KEY` is set, and fall back to fully offline
-tools (Tesseract + sentence-transformers embeddings) otherwise, so the pipeline
-runs either way. See `approach_note.md` for the reasoning and known weaknesses.
