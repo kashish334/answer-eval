@@ -5,10 +5,7 @@ confidence-flags a scanned CBSE Class X Social Science answer sheet against
 a hand-written rubric.
 
 **Source sheet & rubric:** see [`source.MD`](./source.MD)
-**Approach note (what I'd do differently, weakest points):** see [`Approach.md`](./Approach.md)
-
-> Both files above should sit at the repo root alongside this README — they
-> are required deliverables, not just supporting notes.
+**Approach note :** see [`Approach.md`](./Approach.md)
 
 ## Demo Video of Project
 
