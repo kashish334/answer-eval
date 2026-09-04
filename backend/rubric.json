@@ -1,0 +1,84 @@
+{
+  "source": {
+    "answer_sheet": "CBSE Class X Social Science Model Answer, Q.P. Code 087, matched to Q.P. 32/3/2",
+    "answer_sheet_url": "https://www.cbse.gov.in/cbsenew/model-answer.html",
+    "question_paper_code": "32/3/2",
+    "subject": "Social Science",
+    "board": "CBSE"
+  },
+  "questions": [
+    {
+      "question_no": "21",
+      "section": "B",
+      "question_text": "Describe any two features of arid soils.",
+      "max_score": 2,
+      "key_points": [
+        "Sandy in texture",
+        "Saline in nature",
+        "Low humus content / poor moisture retention",
+        "Can be cultivated with proper irrigation"
+      ],
+      "points_required_for_full_marks": 2,
+      "answer_page_hint": 4,
+      "notes": "Any two correct features earn full marks; each valid point is worth 1 mark up to the max."
+    },
+    {
+      "question_no": "22",
+      "section": "B",
+      "question_text": "Explain the effectiveness of horizontal distribution of power in the context of India.",
+      "max_score": 2,
+      "key_points": [
+        "Power is shared among different organs at the same level (legislature, executive, judiciary)",
+        "Each organ checks and balances the others",
+        "Prevents concentration of power in one hand / ensures accountability"
+      ],
+      "points_required_for_full_marks": 2,
+      "answer_page_hint": 5,
+      "notes": "Answer sheet contains a caret-inserted correction (the word 'horizontal' added above the line) - a good handwriting-correction test case."
+    },
+    {
+      "question_no": "23",
+      "section": "B",
+      "question_text": "What changes did the Government of India make in its economic policies in the beginning of 1991? Explain.",
+      "max_score": 2,
+      "key_points": [
+        "Liberalisation - removal of barriers/restrictions on foreign trade and investment",
+        "Privatisation of public sector",
+        "Globalisation - integration with the world economy",
+        "Reduction of import tariffs, encouragement of FDI / MNCs, Special Economic Zones"
+      ],
+      "points_required_for_full_marks": 2,
+      "answer_page_hint": 6,
+      "notes": "Answer sheet contains a crossed-out word ('bro') mid-sentence - required 'handle crossed-out lines' test case."
+    },
+    {
+      "question_no": "24",
+      "section": "B",
+      "question_text": "Mention any two economic impacts of the First World War on India.",
+      "max_score": 2,
+      "key_points": [
+        "War expenditure financed by loans and increased taxes (customs duties, income tax introduced)",
+        "Prices of goods increased sharply (near doubling 1913-1918), causing hardship",
+        "Widespread famines and the influenza epidemic that killed millions"
+      ],
+      "points_required_for_full_marks": 2,
+      "answer_page_hint": 7,
+      "notes": "Contains a caret-inserted phrase correction mid-answer."
+    },
+    {
+      "question_no": "25",
+      "section": "C",
+      "question_text": "How does democracy establish an accountable, responsible and legitimate government? Explain.",
+      "max_score": 3,
+      "key_points": [
+        "Accountable - government answerable to citizens through elections",
+        "Responsible - transparency, rule-following, right to information",
+        "Legitimate - government of the people, based on majority consent, even if slower"
+      ],
+      "points_required_for_full_marks": 3,
+      "answer_page_hint": "7-9",
+      "content_ends_before_keywords": ["conservation", "Guls", "Kuls"],
+      "notes": "REQUIRED SPILLOVER CASE: this answer begins at the bottom of page 7 and continues through pages 8 and 9 with no repeated question number. Page 9 also contains the start of Q26 (not in this rubric), so content_ends_before_keywords trims the answer at that boundary."
+    }
+  ]
+}
