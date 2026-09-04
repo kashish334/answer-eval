@@ -159,7 +159,7 @@ export default function App() {
     <div className="page">
       <header className="header">
         <div className="header__inner">
-          <p className="eyebrow">CNV AI Labs</p>
+          <p className="eyebrow"></p>
           <h1>Answer Sheet Evaluation</h1>
           <p className="header__desc">
             Upload a scanned answer sheet. The pipeline extracts each answer,
